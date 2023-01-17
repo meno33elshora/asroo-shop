@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1072792626848",
+    "project_id": "asroo-9806e",
+    "storage_bucket": "asroo-9806e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072792626848:android:f08905bbfccb4054848bc5",
+        "android_client_info": {
+          "package_name": "com.example.asroo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072792626848-bmrupjcrvad6bupbdin0ocihb68s34u7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBArOo3mm9J19Ja4HSkRKFQNmA-a87l8fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072792626848-bmrupjcrvad6bupbdin0ocihb68s34u7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1072792626848-allb654pm02tmp6qbnso2ma8pmd16h8a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.asroo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
